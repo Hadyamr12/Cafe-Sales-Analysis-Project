@@ -20,7 +20,10 @@ Power BI
 Data Cleaning (handling missing values, fixing data types, removing inconsistencies)
 Exploratory Data Analysis (EDA)
 Data Visualization
-Dashboard creation (Power BI)
+Dashboard creation (Power BI)  
+
+Full Dashboard
+https://app.powerbi.com/links/6ZKu0kj6xJ?ctid=eaf624c8-a0c4-4195-87d2-443e5d7516cd&pbi_source=linkShare
 
 <img width="1221" height="680" alt="image" src="https://github.com/user-attachments/assets/f6e07c72-e417-4864-9144-5fac551d6cae" />
 
